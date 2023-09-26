@@ -42,7 +42,7 @@ const projects = [
     title: "Movie Database",
     imgSrc: "https://github.com/carolarruda/movieDb/blob/main/src/gifs/addMovie.gif?raw=true",
     code: "https://github.com/carolarruda/movieDb",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    projectLink: "",
     tech: ["Node", "Express", "Postgres", "Authentication"],
     description:
       "A simple Movie Database project to keep track of all my comfort movies! This application allows users to authenticate and manage their movie collections",
